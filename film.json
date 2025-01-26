@@ -98,5 +98,5 @@
       { "id": 11, "numero": "D2", "prenotato": false },
       { "id": 12, "numero": "D3", "prenotato": false }
     ]
-  },
+  }
 ]
