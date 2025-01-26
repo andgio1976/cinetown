@@ -1,0 +1,102 @@
+[
+  {
+    "id": 1,
+    "titolo": "IL MIO GIARDINO PERSIANO",
+    "descrizione": "Vedova da una trentina d'anni, la settantenne Mahin non ha mai voluto risposarsi e da quando la figlia è partita per l'estero vive sola a Teheran nella sua grande casa con giardino. Stanca della solitudine, dopo un pranzo con le amiche che l'ha spinta a cercare la compagnia di un uomo, Mahin avvicina l'anziano tassista Faramarz, ex soldato anche lui destinato a restare solo, e con gentilezza lo invita da lei per passare una serata insieme. L'incontro inaspettato si trasformerà per entrambi in qualcosa d'indimenticabile.",
+    "foto":"https://pad.mymovies.it/filmclub/2024/01/281/locandina.jpg",
+    "posti": [
+      { "id": 1, "numero": "A1", "prenotato": false },
+      { "id": 2, "numero": "A2", "prenotato": false },
+      { "id": 3, "numero": "A3", "prenotato": false },
+      { "id": 4, "numero": "B1", "prenotato": false },
+      { "id": 5, "numero": "B2", "prenotato": false },
+      { "id": 6, "numero": "B3", "prenotato": false },
+      { "id": 7, "numero": "C1", "prenotato": false },
+      { "id": 8, "numero": "C2", "prenotato": false },
+      { "id": 9, "numero": "C3", "prenotato": false },
+      { "id": 10, "numero": "D1", "prenotato": false },
+      { "id": 11, "numero": "D2", "prenotato": false },
+      { "id": 12, "numero": "D3", "prenotato": false }
+    ]
+  },
+    {
+    "id": 1,
+    "titolo": "IL MIO GIARDINO PERSIANO",
+    "descrizione": "Un emozionante film d'azione.",
+    "foto":"https://pad.mymovies.it/filmclub/2024/01/281/locandina.jpg",
+    "posti": [
+      { "id": 1, "numero": "A1", "prenotato": false },
+      { "id": 2, "numero": "A2", "prenotato": false },
+      { "id": 3, "numero": "A3", "prenotato": false },
+      { "id": 4, "numero": "B1", "prenotato": false },
+      { "id": 5, "numero": "B2", "prenotato": false },
+      { "id": 6, "numero": "B3", "prenotato": false },
+      { "id": 7, "numero": "C1", "prenotato": false },
+      { "id": 8, "numero": "C2", "prenotato": false },
+      { "id": 9, "numero": "C3", "prenotato": false },
+      { "id": 10, "numero": "D1", "prenotato": false },
+      { "id": 11, "numero": "D2", "prenotato": false },
+      { "id": 12, "numero": "D3", "prenotato": false }
+    ]
+  },
+    {
+    "id": 1,
+    "titolo": "IL MIO GIARDINO PERSIANO",
+    "descrizione": "Un emozionante film d'azione.",
+    "foto":"https://pad.mymovies.it/filmclub/2024/01/281/locandina.jpg",
+    "posti": [
+      { "id": 1, "numero": "A1", "prenotato": false },
+      { "id": 2, "numero": "A2", "prenotato": false },
+      { "id": 3, "numero": "A3", "prenotato": false },
+      { "id": 4, "numero": "B1", "prenotato": false },
+      { "id": 5, "numero": "B2", "prenotato": false },
+      { "id": 6, "numero": "B3", "prenotato": false },
+      { "id": 7, "numero": "C1", "prenotato": false },
+      { "id": 8, "numero": "C2", "prenotato": false },
+      { "id": 9, "numero": "C3", "prenotato": false },
+      { "id": 10, "numero": "D1", "prenotato": false },
+      { "id": 11, "numero": "D2", "prenotato": false },
+      { "id": 12, "numero": "D3", "prenotato": false }
+    ]
+  },
+    {
+    "id": 1,
+    "titolo": "IL MIO GIARDINO PERSIANO",
+    "descrizione": "Un emozionante film d'azione.",
+    "foto":"https://pad.mymovies.it/filmclub/2024/01/281/locandina.jpg",
+    "posti": [
+      { "id": 1, "numero": "A1", "prenotato": false },
+      { "id": 2, "numero": "A2", "prenotato": false },
+      { "id": 3, "numero": "A3", "prenotato": false },
+      { "id": 4, "numero": "B1", "prenotato": false },
+      { "id": 5, "numero": "B2", "prenotato": false },
+      { "id": 6, "numero": "B3", "prenotato": false },
+      { "id": 7, "numero": "C1", "prenotato": false },
+      { "id": 8, "numero": "C2", "prenotato": false },
+      { "id": 9, "numero": "C3", "prenotato": false },
+      { "id": 10, "numero": "D1", "prenotato": false },
+      { "id": 11, "numero": "D2", "prenotato": false },
+      { "id": 12, "numero": "D3", "prenotato": false }
+    ]
+  },
+    {
+    "id": 1,
+    "titolo": "IL MIO GIARDINO PERSIANO",
+    "descrizione": "Un emozionante film d'azione.",
+    "foto":"https://pad.mymovies.it/filmclub/2024/01/281/locandina.jpg",
+    "posti": [
+      { "id": 1, "numero": "A1", "prenotato": false },
+      { "id": 2, "numero": "A2", "prenotato": false },
+      { "id": 3, "numero": "A3", "prenotato": false },
+      { "id": 4, "numero": "B1", "prenotato": false },
+      { "id": 5, "numero": "B2", "prenotato": false },
+      { "id": 6, "numero": "B3", "prenotato": false },
+      { "id": 7, "numero": "C1", "prenotato": false },
+      { "id": 8, "numero": "C2", "prenotato": false },
+      { "id": 9, "numero": "C3", "prenotato": false },
+      { "id": 10, "numero": "D1", "prenotato": false },
+      { "id": 11, "numero": "D2", "prenotato": false },
+      { "id": 12, "numero": "D3", "prenotato": false }
+    ]
+  },
+]
